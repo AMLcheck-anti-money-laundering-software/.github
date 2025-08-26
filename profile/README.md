@@ -1,7 +1,4 @@
 
-
-https://i.ytimg.com/vi/aKMOszc_vJ4/maxresdefault.jpg
-
 # AMLcheck Anti-Money Laundering Software 🛡️ Secure Crypto Compliance 2025 ⚡
 
 AMLcheck is a state-of-the-art anti-money laundering (AML) software tailored for the cryptocurrency industry in 2025. Our platform offers quick and accurate risk assessments for crypto wallets and transactions, enabling users to identify suspicious activity and maintain full regulatory compliance. Designed for exchanges, traders, and compliance teams, AMLcheck combines security, speed, and ease of use.
